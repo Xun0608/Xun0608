@@ -1,5 +1,6 @@
-# 柯隆勳（Longxun Ko）![image](https://github.com/Xun0608/Xun0608/blob/main/%E5%9C%96%E7%89%871.png)
-<img src="(https://github.com/Xun0608/Xun0608/blob/main/%E5%9C%96%E7%89%871.png)" width="200" />
+# 柯隆勳（Longxun Ko）
+<img src="https://github.com/Xun0608/Xun0608/blob/main/%E5%9C%96%E7%89%871.png" width="200" />
+
 
   目前擔任高雄日月光 Flip Chip 工程師，致力於設計和開發創新解決方案，為客戶提供優質服務。
   
