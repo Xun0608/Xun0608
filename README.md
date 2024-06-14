@@ -1,4 +1,4 @@
-# 柯隆勳（Longxun Ko）<img src="https://cdn-icons-png.flaticon.com/128/13132/13132627.png" width="50" height="50">
+# 柯隆勳（Longxun Ko）<img src="[https://cdn-icons-png.flaticon.com/128/13132/13132627.png](https://github.com/Xun0608/Xun0608/blob/main/%E5%9C%96%E7%89%871.png?raw=true)" width="50" height="50">
 
   目前擔任高雄日月光 Flip Chip 工程師，致力於設計和開發創新解決方案，為客戶提供優質服務。
   
